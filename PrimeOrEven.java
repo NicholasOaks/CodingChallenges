@@ -13,6 +13,7 @@ public class PrimeOrEven{
      else {
         System.out.println("odd");
      }
-
-    }
+   
+   scanner.close();
+   }
 }

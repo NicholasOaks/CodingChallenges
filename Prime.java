@@ -22,5 +22,6 @@ public class Prime{
                 break;
             }
         }
+        scanner.close();
     }
 }
